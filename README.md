@@ -1,6 +1,6 @@
 ### Hey I'm Yuvraj 👋
 
-I am a <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="20" align="center" > Web and App Developer, Competitive Programmer, Technical Writer and a hobbyist Graphic Designer
+I am a Flutter Web and App Developer, Competitive Programmer, Technical Writer and a hobbyist Graphic Designer
 
 ---
 
