@@ -1,6 +1,6 @@
 ### Hey I'm Yuvraj 👋
 
-I am a Flutter Web and App Developer, Competitive Programmer, Technical Writer and a hobbyist Graphic Designer
+I am a Flutter App and Web Developer, Competitive Programmer, Technical Writer and a hobbyist Graphic Designer
 
 ---
 
