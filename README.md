@@ -1,6 +1,7 @@
+### Hey I'm Yuvraj <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="25">
+<br>
 <img src="https://64.media.tumblr.com/0150e859c068ee95d24c30e1e911c10a/13a4a971697d5e07-91/s540x810/e4d7b7f2658e25c01ad46426255f443297a0da41.gifv" height="250" align="center" >
 <br>
-### Hey I'm Yuvraj <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="25">
 
 I'm a Full Stack Mobile App Developer, Competitive Programmer, Technical Writer and a hobbyist Graphic Designer
 
