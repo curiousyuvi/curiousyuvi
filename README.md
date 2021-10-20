@@ -3,7 +3,7 @@
 <img src="https://64.media.tumblr.com/0150e859c068ee95d24c30e1e911c10a/13a4a971697d5e07-91/s540x810/e4d7b7f2658e25c01ad46426255f443297a0da41.gifv" height="250" align="center" >
 <br>
 
-I'm a Full Stack Mobile App Developer, Competitive Programmer, Technical Writer and a hobbyist Graphic Designer
+I'm a Full Stack Mobile Developer, Competitive Programmer, Technical Writer and a hobbyist Graphic Designer
 
 ---
 
