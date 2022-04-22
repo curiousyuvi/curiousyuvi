@@ -3,7 +3,7 @@
 <img src="https://media4.giphy.com/media/Mqzn3I4SzHoPK/giphy.gif?cid=ecf05e47ixx8rcyy3jkkm6sxba4bj6qww3r74tfm1g1tq4rp&rid=giphy.gif&ct=g" height="250" align="center" >
 <br>
 
-I'm a Frontend Developer, Competitive Programmer, Technical Writer and a hobbyist Graphic Designer
+I'm a Software Developer, Competitive Programmer, Technical Writer and a hobbyist Graphic Designer
 
 ---
 
