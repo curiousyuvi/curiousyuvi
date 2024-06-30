@@ -3,7 +3,7 @@
 <img src="https://media3.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif?cid=ecf05e47mszmg4wuz1jlmj4rrhvjeb30uzlyk3lvry21jzn3&rid=giphy.gif&ct=g" height="250" align="center" >
 <br>
 
-I'm a Full Stack Developer, Competitive Programmer, and a hobbyist Graphic and UI Designer
+I'm a Tech Founder, Full Stack Developer, Competitive Programmer, and a hobbyist Graphic and UI Designer
 
 ---
 
